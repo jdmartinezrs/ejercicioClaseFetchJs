@@ -8,4 +8,3 @@ export const solicitar = async (url) =>{
     return await respuesta.json()
     //return data;
 }
-
